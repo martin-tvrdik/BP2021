@@ -1,0 +1,28 @@
+atari-py==0.2.6
+Box2D==2.3.10
+certifi==2020.6.20
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1598400192773/work
+cycler==0.10.0
+future @ file:///D:/bld/future_1610147454374/work
+graphviz @ file:///tmp/build/80754af9/python-graphviz_1612303637553/work
+gym @ file:///D:/bld/gym_1608551988578/work
+kiwisolver==1.3.1
+matplotlib==3.3.4
+mkl-fft==1.2.1
+mkl-random==1.1.1
+mkl-service==2.3.0
+neat-python==0.92
+numpy==1.20.0
+olefile==0.46
+Pillow @ file:///C:/ci/pillow_1609786840597/work
+pygame==2.0.1
+pyglet @ file:///D:/bld/pyglet_1612861255678/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scipy @ file:///C:/ci/scipy_1614023125644/work
+six @ file:///C:/ci/six_1605187374963/work
+torch==1.7.1
+torchaudio==0.7.2
+torchvision==0.8.2
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+wincertstore==0.2
